@@ -35,8 +35,8 @@ LungAI/
 │   ├── evaluation/    # Evaluación del modelo
 ├── README.md          # Documentación principal del proyecto
 └── requirements.txt   # Dependencias del proyecto
+```
 
----
 
 ## 🚀 **Cómo usar LungAI**
 
